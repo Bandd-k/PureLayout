@@ -1432,6 +1432,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"$(inherited)",
 					"USING_XCODE7_SCHEME=1",
+					"PURELAYOUT_APP_EXTENSIONS=1",
 				);
 				INFOPLIST_FILE = "Example-iOS/Example-iOS-Info.plist";
 				INFOPLIST_OUTPUT_FORMAT = "same-as-input";
@@ -1454,6 +1455,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"$(inherited)",
 					"USING_XCODE7_SCHEME=1",
+					"PURELAYOUT_APP_EXTENSIONS=1",
 				);
 				INFOPLIST_FILE = "Example-iOS/Example-iOS-Info.plist";
 				INFOPLIST_OUTPUT_FORMAT = "same-as-input";
